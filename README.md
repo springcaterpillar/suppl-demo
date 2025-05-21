@@ -1,7 +1,7 @@
 # Mantine Vite template
 
 ## Features
-
+testing
 This template comes with the following features:
 
 - [PostCSS](https://postcss.org/) with [mantine-postcss-preset](https://mantine.dev/styles/postcss-preset)
